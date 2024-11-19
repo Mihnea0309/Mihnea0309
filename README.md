@@ -1,4 +1,4 @@
-<h2>Hello! I am Mihnea! <br/>Student at the Universitatea Politehnica Bucuresti for Computer Science and Engineering</h2>
+<h2>Hello! I am Mihnea! <br/>3rd year student at the Universitatea Politehnica Bucuresti for Computer Science and Engineering</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
