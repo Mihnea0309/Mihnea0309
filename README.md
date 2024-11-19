@@ -4,7 +4,7 @@
 
 - <b>Full Stack Database Web App (React, Spring Boot Java, PostegreSQL)</b>
   - [Car service app](https://github.com/Mihnea0309/DatabaseApp)
-- <b>Android (Java)</b>
+- <b>Java (Android)</b>
   - [Reddit app for Android](https://github.com/Mihnea0309/RedditApp)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
