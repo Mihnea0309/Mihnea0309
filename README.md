@@ -7,11 +7,15 @@
 - <b>Java (Android)</b>
   - [Reddit app for Android](https://github.com/Mihnea0309/RedditApp)
 - <b>HTML CSS and JavaScript</b>
-  - [Weather Web App](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Weather Web App](https://github.com/Mihnea0309/WeatherApp)
 
 <h2>💡 Arduino Projects</h2>
 
 - [Solar Tracker](https://github.com/Mihnea0309/SolarTracker)
+
+<h2>📙 Course Certifications</h2>
+
+- [CompTIA Security+ (SY0-701) Complete Course & Exam (Ongoing)](https://www.udemy.com/course/securityplus/?couponCode=KEEPLEARNING)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
