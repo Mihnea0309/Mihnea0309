@@ -9,7 +9,7 @@
 - <b>HTML CSS and JavaScript</b>
   - [Weather Web App](https://github.com/Mihnea0309/WeatherApp)
 
-<h2>💡 Arduino Projects</h2>
+<h2>💡 Microcontroller Projects</h2>
 
 - [Solar Tracker](https://github.com/Mihnea0309/SolarTracker)
 
