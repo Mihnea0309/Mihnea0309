@@ -12,6 +12,7 @@
 <h2>💡 Microcontroller Projects</h2>
 
 - [Solar Tracker](https://github.com/Mihnea0309/SolarTracker)
+- [Weather Station](https://github.com/Mihnea0309/Weather-Station)
 
 <h2>📙 Course Certifications</h2>
 
