@@ -19,7 +19,7 @@
 - [CompTIA Security+ (SY0-701) Complete Course & Exam (Ongoing)](https://www.udemy.com/course/securityplus/?couponCode=KEEPLEARNING)
 - Introduction to Linear Algebra with MATLAB
   <img src="https://imgur.com/b8UlZak.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-- Disaster Risk Monitoring Using Satellite Imagery
+- Disaster Risk Monitoring Using Satellite Imagery from Nvidia
   <img src="https://imgur.com/fbwcVkY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <!--
