@@ -17,6 +17,9 @@
 <h2>📙 Course Certifications</h2>
 
 - [CompTIA Security+ (SY0-701) Complete Course & Exam (Ongoing)](https://www.udemy.com/course/securityplus/?couponCode=KEEPLEARNING)
+- [Introduction to Linear Algebra with MATLAB]
+  <img src="https://imgur.com/b8UlZak" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- [Disaster Risk Monitoring Using Satellite Imagery]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
