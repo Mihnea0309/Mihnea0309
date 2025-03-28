@@ -8,6 +8,8 @@
   - [Reddit app for Android](https://github.com/Mihnea0309/RedditApp)
 - <b>HTML CSS and JavaScript</b>
   - [Weather Web App](https://github.com/Mihnea0309/WeatherApp)
+- <b>Transfer Value Prediction Algorithm</b>
+  - [Transfer Value Prediction Algorithm](https://github.com/Mihnea0309/Transfer-Value-Prediction)
 
 <h2>💡 Microcontroller Projects</h2>
 
