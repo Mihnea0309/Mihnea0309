@@ -1,4 +1,6 @@
-<h2>Hello! I am Mihnea! <br/>3rd year student at the Universitatea Politehnica Bucuresti for a Bachelor in Computer Science and Engineering</h2>
+<h2>### Hi, I'm Mihnea 👋
+
+**SOC Analyst** with 1.5 years of experience in threat detection, incident response, and attack surface reconnaissance, currently transitioning into **Penetration Testing / Offensive Security**.</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
