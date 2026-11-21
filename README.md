@@ -19,13 +19,13 @@
 
 <h2>Platforms & Certifications</h2>
 
-- CompTIA Network+ ce - September 2026 | Certificate link
+- CompTIA Network+ ce - September 2026 | [Certificate link](https://www.credly.com/badges/861e6a81-b5a3-43fa-913a-eb82164d0530/public_url)
 
-- Red Hat System Administration I (RH124 - RHA) - May 2025 | Certificate link
+- Red Hat System Administration I (RH124 - RHA) - May 2025 | [Certificate link](https://www.credly.com/badges/a6afa4f5-5e76-46f7-83d3-9b60eed3ba78/public_url)
 
-- Red Hat System Administration II (RH134 - RHA) - May 2025 | Certificate link
+- Red Hat System Administration II (RH134 - RHA) - May 2025 | [Certificate link](https://www.credly.com/badges/b95b0186-4ac2-4ffa-a524-92f3d013a13d/public_url)
 
-- CompTIA Security+ Training - March 2025, Udemy (Dion Training) | Certificate link
+- CompTIA Security+ Training - March 2025, Udemy (Dion Training) | [Certificate link](https://www.udemy.com/certificate/UC-d4272eae-3970-432a-81c8-241f2b5d0986/)
 
 
 <!--
