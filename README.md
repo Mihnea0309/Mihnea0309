@@ -9,10 +9,10 @@
   - [Transfer Value Prediction Algorithm](https://github.com/Mihnea0309/Transfer-Value-Prediction)
 
 - <b>Python</b>
-  - [AI Desktop Subtitle Generator](https://github.com/Mihnea0309/DatabaseApp)
+  - [AI Desktop Subtitle Generator](https://github.com/Mihnea0309/ai-subtitle-generator)
   
 - <b>Full Stack Database Web App (React, Spring Boot Java, PostegreSQL)</b>
-  - [Car service app](https://github.com/Mihnea0309/ai-subtitle-generator)
+  - [Car service app](https://github.com/Mihnea0309/DatabaseApp)
   
 - <b>Java (Android)</b>
   - [Reddit app for Android](https://github.com/Mihnea0309/RedditApp)
