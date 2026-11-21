@@ -3,6 +3,11 @@
 **SOC Analyst** with 1.5 years of experience in threat detection, incident response, and attack surface reconnaissance, currently transitioning into **Penetration Testing / Offensive Security**.</h2>
 
 <h2>Software Development Projects:</h2>
+
+- <b>Machine Learning</b>
+  - [AI Phishing Detection System](https://github.com/Mihnea0309/phishing-email-detection-ml)
+  - [Transfer Value Prediction Algorithm](https://github.com/Mihnea0309/Transfer-Value-Prediction)
+
 - <b>Python</b>
   - [AI Desktop Subtitle Generator](https://github.com/Mihnea0309/DatabaseApp)
   
@@ -11,10 +16,6 @@
   
 - <b>Java (Android)</b>
   - [Reddit app for Android](https://github.com/Mihnea0309/RedditApp)
-  
-- <b>Machine Learning</b>
-  - [Transfer Value Prediction Algorithm](https://github.com/Mihnea0309/Transfer-Value-Prediction)
-  - [AI Phishing Detection System](https://github.com/Mihnea0309/phishing-email-detection-ml)
 
 <h2>Platforms & Certifications</h2>
 
